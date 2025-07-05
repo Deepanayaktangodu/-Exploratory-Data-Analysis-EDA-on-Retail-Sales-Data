@@ -17,7 +17,7 @@ This project presents an end-to-end **Exploratory Data Analysis (EDA)** of a ret
   - Smoothies & Shakes  
   - Snacks & Sides  
 
-> _Note: Dataset source is assumed to be proprietary or simulated; not publicly linked here._
+> _Dataset source: https://www.kaggle.com/datasets/mcdonalds/nutrition-facts
 
 ---
 
